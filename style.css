@@ -14,3 +14,10 @@ body{
     width: 100px;
     margin-left: 125px;
 }
+.music audio{
+    width: 345px;
+}
+.video video{
+    height:230px;
+    width: 345px;
+} 
