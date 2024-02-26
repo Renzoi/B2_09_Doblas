@@ -21,3 +21,7 @@ body{
     height:230px;
     width: 345px;
 } 
+.time p{
+    text-align:center;
+    color: white;
+}
