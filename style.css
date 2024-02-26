@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+}
+.title{
+    text-align: center;
+    color: white;
+}
+.text{
+    text-align: center;
+    color: white;
+}
+.photo img{
+    height: 100px;
+    width: 100px;
+}
